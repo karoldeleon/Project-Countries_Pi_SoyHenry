@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  justify-content: center;
+}
+body {
+  height: 100%;
+  background-position: center center ;
+  background-image: url("../src/Backgrounds/61913-mapa-mundi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+  background-attachment: fixed;
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: rgb(0, 0, 0);
+  color: white;
+
+
+}
+
